@@ -1,4 +1,7 @@
-este repositorio esta hecho como apoyo para todos los estudiantes de mecatronica para que tengan facil los programas mas usados en la industria
+este repositorio esta hecho como apoyo para todos los estudiantes de mecatronica para que tengan facil los programas mas usados en la industria.
+
+#NOTA#
+si eres usuario LINUX usa wine para usar los programas.
 
 para ejecutar los programas:
 
@@ -25,6 +28,8 @@ para ejecutar los programas:
 6) despues de que ejecute el programa despliega el menu de "system" en la esquina isquierda superior
 7) clik en "system settings"
 8) cambia la ruta de las carpetas por las carpetas del mismo nombre que se encuentran dentro de la la carpeta "DATA"
+#NOTA#
+si eres usuario LINUX te recomiendo mover las carpetas fuera de "DATA"
 9) realiza el mismo proceso en todas las pestañas de "system settings"
 10) reinicia el programa
 11) simula tus circuitos electronicos
